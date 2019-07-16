@@ -1,0 +1,136 @@
+,source_id,name,category,country,language,description,url
+0,0,ABC News,general,us,en,"Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com.",https://abcnews.go.com
+1,1,ABC News (AU),general,au,en,"Australia's most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.",http://www.abc.net.au/news
+2,2,Aftenposten,general,no,no,"Norges ledende nettavis med alltid oppdaterte nyheter innenfor innenriks, utenriks, sport og kultur.",https://www.aftenposten.no
+3,3,Al Jazeera English,general,us,en,"News, analysis from the Middle East and worldwide, multimedia and interactives, opinions, documentaries, podcasts, long reads and broadcast schedule.",http://www.aljazeera.com
+4,4,ANSA.it,general,it,it,"Agenzia ANSA: ultime notizie, foto, video e approfondimenti su: cronaca, politica, economia, regioni, mondo, sport, calcio, cultura e tecnologia.",http://www.ansa.it
+5,5,Argaam,business,sa,ar,"ارقام موقع متخصص في متابعة سوق الأسهم السعودي تداول - تاسي - مع تغطيه معمقة لشركات واسعار ومنتجات البتروكيماويات , تقارير مالية الاكتتابات الجديده ",http://www.argaam.com
+6,6,Ars Technica,technology,us,en,"The PC enthusiast's resource. Power users and the tools they love, without computing religion.",http://arstechnica.com
+7,7,Ary News,general,pk,ud,ARY News is a Pakistani news channel committed to bring you up-to-the minute Pakistan news and featured stories from around Pakistan and all over the world.,https://arynews.tv/ud/
+8,8,Associated Press,general,us,en,"The AP delivers in-depth coverage on the international, politics, lifestyle, business, and entertainment news.",https://apnews.com/
+9,9,Australian Financial Review,business,au,en,"The Australian Financial Review reports the latest news from business, finance, investment and politics, updated in real time. It has a reputation for independent, award-winning journalism and is essential reading for the business and investor community.",http://www.afr.com
+10,10,Axios,general,us,en,"Axios are a new media company delivering vital, trustworthy news and analysis in the most efficient, illuminating and shareable ways possible.",https://www.axios.com
+11,11,BBC News,general,gb,en,"Use BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news.",http://www.bbc.co.uk/news
+12,12,BBC Sport,sports,gb,en,"The home of BBC Sport online. Includes live sports coverage, breaking news, results, video, audio and analysis on Football, F1, Cricket, Rugby Union, Rugby League, Golf, Tennis and all the main world sports, plus major events such as the Olympic Games.",http://www.bbc.co.uk/sport
+13,13,Bild,general,de,de,"Die Seite 1 für aktuelle Nachrichten und Themen, Bilder und Videos aus den Bereichen News, Wirtschaft, Politik, Show, Sport, und Promis.",http://www.bild.de
+14,14,Blasting News (BR),general,br,pt,"Descubra a seção brasileira da Blasting News, a primeira revista feita pelo  público, com notícias globais e vídeos independentes. Junte-se a nós e torne- se um repórter.",http://br.blastingnews.com
+15,15,Bleacher Report,sports,us,en,"Sports journalists and bloggers covering NFL, MLB, NBA, NHL, MMA, college football and basketball, NASCAR, fantasy sports and more. News, photos, mock drafts, game scores, player profiles and more!",http://www.bleacherreport.com
+16,16,Bloomberg,business,us,en,"Bloomberg delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News.",http://www.bloomberg.com
+17,17,Breitbart News,general,us,en,Syndicated news and opinion website providing continuously updated headlines to top news and analysis sources.,http://www.breitbart.com
+18,18,Business Insider,business,us,en,"Business Insider is a fast-growing business site with deep financial, media, tech, and other industry verticals. Launched in 2007, the site is now the largest business news site on the web.",http://www.businessinsider.com
+19,19,Business Insider (UK),business,gb,en,"Business Insider is a fast-growing business site with deep financial, media, tech, and other industry verticals. Launched in 2007, the site is now the largest business news site on the web.",http://uk.businessinsider.com
+20,20,Buzzfeed,entertainment,us,en,"BuzzFeed is a cross-platform, global network for news and entertainment that generates seven billion views each month.",https://www.buzzfeed.com
+21,21,CBC News,general,ca,en,"CBC News is the division of the Canadian Broadcasting Corporation responsible for the news gathering and production of news programs on the corporation's English-language operations, namely CBC Television, CBC Radio, CBC News Network, and CBC.ca.",http://www.cbc.ca/news
+22,22,CBS News,general,us,en,CBS News: dedicated to providing the best in journalism under standards it pioneered at the dawn of radio and television and continue in the digital age.,http://www.cbsnews.com
+23,23,CNBC,business,us,en,"Get latest business news on stock markets, financial & earnings on CNBC. View world markets streaming charts & video; check stock tickers and quotes.",http://www.cnbc.com
+24,24,CNN,general,us,en,"View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN",http://us.cnn.com
+25,25,CNN Spanish,general,us,es,"Lee las últimas noticias e información sobre Latinoamérica, Estados Unidos, mundo, entretenimiento, política, salud, tecnología y deportes en CNNEspañol.com.",http://cnnespanol.cnn.com/
+26,26,Crypto Coins News,technology,us,en,"Providing breaking cryptocurrency news - focusing on Bitcoin, Ethereum, ICOs, blockchain technology, and smart contracts.",https://www.ccn.com
+27,27,Daily Mail,entertainment,gb,en,"All the latest news, sport, showbiz, science and health stories from around the world from the Daily Mail and Mail on Sunday newspapers.",http://www.dailymail.co.uk/home/index.html
+28,28,Der Tagesspiegel,general,de,de,"Nachrichten, News und neueste Meldungen aus dem Inland und dem Ausland - aktuell präsentiert von tagesspiegel.de.",http://www.tagesspiegel.de
+29,29,Die Zeit,business,de,de,"Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT ONLINE.",http://www.zeit.de/index
+30,30,El Mundo,general,es,es,"Noticias, actualidad, álbumes, debates, sociedad, servicios, entretenimiento y última hora en España y el mundo.",http://www.elmundo.es
+31,31,Engadget,technology,us,en,Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics.,https://www.engadget.com
+32,32,Entertainment Weekly,entertainment,us,en,"Online version of the print magazine includes entertainment news, interviews, reviews of music, film, TV and books, and a special area for magazine subscribers.",http://www.ew.com
+33,33,ESPN,sports,us,en,"ESPN has up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more.",http://espn.go.com
+34,34,ESPN Cric Info,sports,us,en,"ESPN Cricinfo provides the most comprehensive cricket coverage available including live ball-by-ball commentary, news, unparalleled statistics, quality editorial comment and analysis.",http://www.espncricinfo.com/
+35,35,Financial Post,business,ca,en,Find the latest happenings in the Canadian Financial Sector and stay up to date with changing trends in Business Markets. Read trading and investing advice from professionals.,http://business.financialpost.com
+36,36,Focus,general,de,de,Minutenaktuelle Nachrichten und Service-Informationen von Deutschlands modernem Nachrichtenmagazin.,http://www.focus.de
+37,37,Football Italia,sports,it,en,"Italian football news, analysis, fixtures and results for the latest from Serie A, Serie B and the Azzurri.",http://www.football-italia.net
+38,38,Fortune,business,us,en,Fortune 500 Daily and Breaking Business News,http://fortune.com
+39,39,FourFourTwo,sports,gb,en,"The latest football news, in-depth features, tactical and statistical analysis from FourFourTwo, the UK&#039;s favourite football monthly.",http://www.fourfourtwo.com/news
+40,40,Fox News,general,us,en,"Breaking News, Latest News and Current News from FOXNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.",http://www.foxnews.com
+41,41,Fox Sports,sports,us,en,"Find live scores, player and team news, videos, rumors, stats, standings, schedules and fantasy games on FOX Sports.",http://www.foxsports.com
+42,42,Globo,general,br,pt,"Só na globo.com você encontra tudo sobre o conteúdo e marcas do Grupo Globo. O melhor acervo de vídeos online sobre entretenimento, esportes e jornalismo do Brasil.",http://www.globo.com/
+43,43,Google News,general,us,en,"Comprehensive, up-to-date news coverage, aggregated from sources all over the world by Google News.",https://news.google.com
+44,44,Google News (Argentina),general,ar,es,Completa cobertura actualizada de noticias agregadas a partir de fuentes de todo el mundo por Google Noticias.,https://news.google.com
+45,45,Google News (Australia),general,au,en,"Comprehensive, up-to-date Australia news coverage, aggregated from sources all over the world by Google News.",https://news.google.com
+46,46,Google News (Brasil),general,br,pt,"Cobertura jornalística abrangente e atualizada, agregada de fontes do mundo inteiro pelo Google Notícias.",https://news.google.com
+47,47,Google News (Canada),general,ca,en,"Comprehensive, up-to-date Canada news coverage, aggregated from sources all over the world by Google News.",https://news.google.com
+48,48,Google News (France),general,fr,fr,"Informations complètes et à jour, compilées par Google Actualités à partir de sources d&#39;actualités du monde entier.",https://news.google.com
+49,49,Google News (India),general,in,en,"Comprehensive, up-to-date India news coverage, aggregated from sources all over the world by Google News.",https://news.google.com
+50,50,Google News (Israel),general,is,he,כיסוי מקיף ועדכני של חדשות שהצטברו ממקורות בכל העולם על ידי &#39;חדשות Google&#39;.,https://news.google.com
+51,51,Google News (Italy),general,it,it,Copertura giornalistica completa e aggiornata ottenuta combinando fonti di notizie in tutto il mondo attraverso Google News.,https://news.google.com
+52,52,Google News (Russia),general,ru,ru,"Исчерпывающая и актуальная информация, собранная службой &quot;Новости Google&quot; со всего света.",https://news.google.com
+53,53,Google News (Saudi Arabia),general,sa,ar,تغطية شاملة ومتجددة للأخبار، تم جمعها من مصادر أخبار من جميع أنحاء العالم بواسطة أخبار Google.,https://news.google.com
+54,54,Google News (UK),general,gb,en,"Comprehensive, up-to-date UK news coverage, aggregated from sources all over the world by Google News.",https://news.google.com
+55,55,Göteborgs-Posten,general,se,se,"Göteborgs-Posten, abbreviated GP, is a major Swedish language daily newspaper published in Gothenburg, Sweden.",http://www.gp.se
+56,56,Gruenderszene,technology,de,de,"Online-Magazin für Startups und die digitale Wirtschaft. News und Hintergründe zu Investment, VC und Gründungen.",http://www.gruenderszene.de
+57,57,Hacker News,technology,us,en,"Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as ""anything that gratifies one's intellectual curiosity"".",https://news.ycombinator.com
+58,58,Handelsblatt,business,de,de,"Auf Handelsblatt lesen sie Nachrichten über Unternehmen, Finanzen, Politik und Technik. Verwalten Sie Ihre Finanzanlagen mit Hilfe unserer Börsenkurse.",http://www.handelsblatt.com
+59,59,IGN,entertainment,us,en,"IGN is your site for Xbox One, PS4, PC, Wii-U, Xbox 360, PS3, Wii, 3DS, PS Vita and iPhone games with expert reviews, news, previews, trailers, cheat codes, wiki guides and walkthroughs.",http://www.ign.com
+60,60,Il Sole 24 Ore,business,it,it,"Notizie di economia, cronaca italiana ed estera, quotazioni borsa in tempo reale e di finanza, norme e tributi, fondi e obbligazioni, mutui, prestiti e lavoro a cura de Il Sole 24 Ore.",http://www.ilsole24ore.com
+61,61,Independent,general,gb,en,National morning quality (tabloid) includes free online access to news and supplements. Insight by Robert Fisk and various other columnists.,http://www.independent.co.uk
+62,62,Infobae,general,ar,es,"Noticias de Argentina y del mundo en tiempo real. Información, videos y fotos sobre los hechos más relevantes y sus protagonistas. Léelo antes en infobae.",http://www.infobae.com/?noredirect
+63,63,InfoMoney,business,br,pt,"No InfoMoney você encontra tudo o que precisa sobre dinheiro. Ações, investimentos, bolsas de valores e muito mais. Aqui você encontra informação que vale dinheiro!",http://www.infomoney.com.br
+64,64,La Gaceta,general,ar,es,"El diario de Tucumán, noticias 24 horas online - San Miguel de Tucumán - Argentina - Ultimo momento - Ultimas noticias.",http://www.lagaceta.com.ar
+65,65,La Nacion,general,ar,es,Información confiable en Internet. Noticias de Argentina y del mundo - ¡Informate ya!,http://www.lanacion.com.ar
+66,66,La Repubblica,general,it,it,"Breaking News, Latest News and Current News from FOXNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.",http://www.repubblica.it
+67,67,Le Monde,general,fr,fr,"Les articles du journal et toute l'actualit&eacute; en continu : International, France, Soci&eacute;t&eacute;, Economie, Culture, Environnement, Blogs ...",http://www.lemonde.fr
+68,68,Lenta,general,ru,ru,"Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки.",https://lenta.ru
+69,69,L'equipe,sports,fr,fr,"Le sport en direct sur L'EQUIPE.fr. Les informations, résultats et classements de tous les sports. Directs commentés, images et vidéos à regarder et à partager !",https://www.lequipe.fr
+70,70,Les Echos,business,fr,fr,"Toute l'actualité économique, financière et boursière française et internationale sur Les Echos.fr",https://www.lesechos.fr
+71,71,Libération,general,fr,fr,Toute l'actualité en direct - photos et vidéos avec Libération,http://www.liberation.fr
+72,72,Marca,sports,es,es,"La mejor información deportiva en castellano actualizada minuto a minuto en noticias, vídeos, fotos, retransmisiones y resultados en directo.",http://www.marca.com
+73,73,Mashable,entertainment,us,en,"Mashable is a global, multi-platform media and entertainment company.",http://mashable.com
+74,74,Medical News Today,health,us,en,"Medical news and health news headlines posted throughout the day, every day.",http://www.medicalnewstoday.com
+75,75,Metro,general,gb,en,"News, Sport, Showbiz, Celebrities from Metro - a free British newspaper.",http://metro.co.uk
+76,76,Mirror,general,gb,en,"All the latest news, sport and celebrity gossip at Mirror.co.uk. Get all the big headlines, pictures, analysis, opinion and video on the stories that matter to you.",http://www.mirror.co.uk/
+77,77,MSNBC,general,us,en,"Breaking news and in-depth analysis of the headlines, as well as commentary and informed perspectives from The Rachel Maddow Show, Morning Joe & more.",http://www.msnbc.com
+78,78,MTV News,entertainment,us,en,"The ultimate news source for music, celebrity, entertainment, movies, and current events on the web. It's pop culture on steroids.",http://www.mtv.com/news
+79,79,MTV News (UK),entertainment,gb,en,"All the latest celebrity news, gossip, exclusive interviews and pictures from the world of music and entertainment.",http://www.mtv.co.uk/news
+80,80,National Geographic,science,us,en,Reporting our world daily: original nature and science news from National Geographic.,http://news.nationalgeographic.com
+81,81,National Review,general,us,en,"National Review: Conservative News, Opinion, Politics, Policy, & Current Events.",https://www.nationalreview.com/
+82,82,NBC News,general,us,en,"Breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.",http://www.nbcnews.com
+83,83,News24,general,za,en,"South Africa's premier news source, provides breaking news on national, world, Africa, sport, entertainment, technology and more.",http://www.news24.com
+84,84,New Scientist,science,us,en,"Breaking science and technology news from around the world. Exclusive stories and expert analysis on space, technology, health, physics, life and Earth.",https://www.newscientist.com/section/news
+85,85,News.com.au,general,au,en,We say what people are thinking and cover the issues that get people talking balancing Australian and global moments — from politics to pop culture.,http://www.news.com.au
+86,86,Newsweek,general,us,en,"Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",http://www.newsweek.com
+87,87,New York Magazine,general,us,en,"NYMAG and New York magazine cover the new, the undiscovered, the next in politics, culture, food, fashion, and behavior nationally, through a New York lens.",http://nymag.com
+88,88,Next Big Future,science,us,en,"Coverage of science and technology that have the potential for disruption, and analysis of plans, policies, and technology that enable radical improvement.",https://www.nextbigfuture.com
+89,89,NFL News,sports,us,en,"The official source for NFL news, schedules, stats, scores and more.",http://www.nfl.com/news
+90,90,NHL News,sports,us,en,"The most up-to-date breaking hockey news from the official source including interviews, rumors, statistics and schedules.",https://www.nhl.com/news
+91,91,NRK,general,no,no,"NRK er Norges største tilbud på nett: nyheter fra Norge og verden, lokalnyheter, radio- og tv-program, podcast, vær, helse-, kultur-, underholdning-, humor- og debattstoff.",https://www.nrk.no
+92,92,Politico,general,us,en,"Political news about Congress, the White House, campaigns, lobbyists and issues.",https://www.politico.com
+93,93,Polygon,entertainment,us,en,"Polygon is a gaming website in partnership with Vox Media. Our culture focused site covers games, their creators, the fans, trending stories and entertainment news.",http://www.polygon.com
+94,94,RBC,general,ru,ru,"Главные новости политики, экономики и бизнеса, комментарии аналитиков, финансовые данные с российских и мировых биржевых систем на сайте rbc.ru.",http://www.rbc.ru
+95,95,Recode,technology,us,en,"Get the latest independent tech news, reviews and analysis from Recode with the most informed and respected journalists in technology and media.",http://www.recode.net
+96,96,Reddit /r/all,general,us,en,"Reddit is an entertainment, social news networking service, and news website. Reddit's registered community members can submit content, such as text posts or direct links.",https://www.reddit.com/r/all
+97,97,Reuters,general,us,en,"Reuters.com brings you the latest news from around the world, covering breaking news in business, politics, entertainment, technology, video and pictures.",http://www.reuters.com
+98,98,RT,general,ru,ru,"Актуальная картина дня на RT: круглосуточное ежедневное обновление новостей политики, бизнеса, финансов, спорта, науки, культуры. Онлайн-репортажи с места событий. Комментарии экспертов, актуальные интервью, фото и видео репортажи.",https://russian.rt.com
+99,99,RTE,general,ie,en,"Get all of the latest breaking local and international news stories as they happen, with up to the minute updates and analysis, from Ireland's National Broadcaster.",https://www.rte.ie/news
+100,100,RTL Nieuws,general,nl,nl,"Volg het nieuws terwijl het gebeurt. RTL Nieuws informeert haar lezers op een onafhankelijke, boeiende en toegankelijke wijze over belangrijke ontwikkelingen in eigen land en de rest van de wereld.",https://www.rtlnieuws.nl/
+101,101,SABQ,general,sa,ar,صحيفة الكترونية سعودية هدفها السبق في نقل الحدث بمهنية ومصداقية خدمة للوطن والمواطن.,https://sabq.org
+102,102,Spiegel Online,general,de,de,"Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr.",http://www.spiegel.de
+103,103,Svenska Dagbladet,general,se,se,Sveriges ledande mediesajt - SvD.se. Svenska Dagbladets nyhetssajt låter läsarna ta plats och fördjupar nyheterna.,https://www.svd.se
+104,104,T3n,technology,de,de,"Das Online-Magazin bietet Artikel zu den Themen E-Business, Social Media, Startups und Webdesign.",http://t3n.de
+105,105,TalkSport,sports,gb,en,"Tune in to the world's biggest sports radio station - Live Premier League football coverage, breaking sports news, transfer rumours &amp; exclusive interviews.",http://talksport.com
+106,106,TechCrunch,technology,us,en,"TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.",https://techcrunch.com
+107,107,TechCrunch (CN),technology,zh,zh,"TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news.",https://techcrunch.cn
+108,108,TechRadar,technology,us,en,"The latest technology news and reviews, covering computing, home entertainment systems, gadgets and more.",http://www.techradar.com
+109,109,The American Conservative,general,us,en,Realism and reform. A new voice for a new generation of conservatives.,http://www.theamericanconservative.com/
+110,110,The Economist,business,gb,en,"The Economist offers authoritative insight and opinion on international news, politics, business, finance, science, technology and the connections between them.",http://www.economist.com
+111,111,The Globe And Mail,general,ca,en,"The Globe and Mail offers the most authoritative news in Canada, featuring national and international news.",https://www.theglobeandmail.com
+112,112,The Hill,general,us,en,"The Hill is a top US political website, read by the White House and more lawmakers than any other site -- vital for policy, politics and election campaigns.",http://thehill.com
+113,113,The Hindu,general,in,en,"The Hindu. latest news, analysis, comment, in-depth coverage of politics, business, sport, environment, cinema and arts from India's national newspaper.",http://www.thehindu.com
+114,114,The Huffington Post,general,us,en,"The Huffington Post is a politically liberal American online news aggregator and blog that has both localized and international editions founded by Arianna Huffington, Kenneth Lerer, Andrew Breitbart, and Jonah Peretti, featuring columnists.",http://www.huffingtonpost.com
+115,115,The Irish Times,general,ie,en,"The Irish Times online. Latest news including sport, analysis, business, weather and more from the definitive brand of quality news in Ireland.",https://www.irishtimes.com
+116,116,The Jerusalem Post,general,is,en,"The Jerusalem Post is the leading online newspaper for English speaking Jewry since 1932, bringing news and updates from the Middle East and all over the Jewish world.",https://www.jpost.com/
+117,117,The Lad Bible,entertainment,gb,en,The LAD Bible is one of the largest community for guys aged 16-30 in the world. Send us your funniest pictures and videos!,http://www.theladbible.com
+118,118,The New York Times,general,us,en,"The New York Times: Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies, travel, books, jobs, education, real estate, cars & more at nytimes.com.",http://www.nytimes.com
+119,119,The Next Web,technology,us,en,"The Next Web is one of the world’s largest online publications that delivers an international perspective on the latest news about Internet technology, business and culture.",http://thenextweb.com
+120,120,The Sport Bible,sports,gb,en,TheSPORTbible is one of the largest communities for sports fans across the world. Send us your sporting pictures and videos!,http://www.thesportbible.com
+121,121,The Telegraph,general,gb,en,"Latest news, business, sport, comment, lifestyle and culture from the Daily Telegraph and Sunday Telegraph newspapers and video from Telegraph TV.",http://www.telegraph.co.uk
+122,122,The Times of India,general,in,en,"Times of India brings the Latest News and Top Breaking headlines on Politics and Current Affairs in India and around the World, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health and Fitness news, Cricket and opinions from leading columnists.",http://timesofindia.indiatimes.com
+123,123,The Verge,technology,us,en,"The Verge covers the intersection of technology, science, art, and culture.",http://www.theverge.com
+124,124,The Wall Street Journal,business,us,en,"WSJ online coverage of breaking news and current headlines from the US and around the world. Top stories, photos, videos, detailed analysis and in-depth reporting.",http://www.wsj.com
+125,125,The Washington Post,general,us,en,"Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",https://www.washingtonpost.com
+126,126,The Washington Times,general,us,en,The Washington Times delivers breaking news and commentary on the issues that affect the future of our nation.,https://www.washingtontimes.com/
+127,127,Time,general,us,en,"Breaking news and analysis from TIME.com. Politics, world news, photos, video, tech reviews, health, science and entertainment news.",http://time.com
+128,128,USA Today,general,us,en,"Get the latest national, international, and political news at USATODAY.com.",http://www.usatoday.com/news
+129,129,Vice News,general,us,en,"Vice News is Vice Media, Inc.'s current affairs channel, producing daily documentary essays and video through its website and YouTube channel. It promotes itself on its coverage of ""under - reported stories"".",https://news.vice.com
+130,130,Wired,technology,us,en,"Wired is a monthly American magazine, published in print and online editions, that focuses on how emerging technologies affect culture, the economy, and politics.",https://www.wired.com
+131,131,Wired.de,technology,de,de,"Wired reports on how emerging technologies affect culture, the economy and politics.",https://www.wired.de
+132,132,Wirtschafts Woche,business,de,de,"Das Online-Portal des führenden Wirtschaftsmagazins in Deutschland. Das Entscheidende zu Unternehmen, Finanzen, Erfolg und Technik.",http://www.wiwo.de
+133,133,Xinhua Net,general,zh,zh,"中国主要重点新闻网站,依托新华社遍布全球的采编网络,记者遍布世界100多个国家和地区,地方频道分布全国31个省市自治区,每天24小时同时使用6种语言滚动发稿,权威、准确、及时播发国内外重要新闻和重大突发事件,受众覆盖200多个国家和地区,发展论坛是全球知名的中文论坛。",http://xinhuanet.com/
+134,134,Ynet,general,is,he,"ynet דף הבית: אתר החדשות המוביל בישראל מבית ידיעות אחרונות. סיקור מלא של חדשות מישראל והעולם, ספורט, כלכלה, תרבות, אוכל, מדע וטבע, כל מה שקורה וכל מה שמעניין ב ynet.",http://www.ynet.co.il
