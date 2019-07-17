@@ -1,5 +1,5 @@
 
-"""
+
  site:www.lavanguardia.com "refugiados"
 https://www.google.com/search?q=site%3Awww.lavanguardia.com+%22refugiados%22&tbs=cdr%3A1%2Ccd_min%3A7%2F1%2F2019%2Ccd_max%3A7%2F13%2F2019&tbm=
 
@@ -43,3 +43,5 @@ Wiki_result = pd.DataFrame(wiki_search.html.absolute_links)
 Wiki_result = Wiki_result[Wiki_result[0].str.startswith("https://en.wikipedia.org/wiki/List_of_newspapers_in_")]
 print(Wiki_result)
 Wiki_result.to_csv('list_of_newspapers.csv')
+
+"""
