@@ -63,7 +63,9 @@ There were some initial hypotheses considered beforehand:
 
 
 [Twitter API](https://developer.twitter.com/en/docs.html) 
+
 [News API]() 
+
 [WorldBank data]() 
 
 <a name="workflow"></a>
