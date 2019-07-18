@@ -1,0 +1,14 @@
+import pandas as pd
+
+table = pd.read_csv('josep_news_txt.csv')
+print(table)
+
+def pinor(a,b,c):
+
+    print(a + b + c)
+    while True:
+        if soup.findAll('div', {'class': 'nMymef MUxGbd lyLwlc'}):   #check if there is button suguiente
+
+        else:
+            break
+table.apply(lambda row: pinor(row[0],row[1],row[2]), axis=1)
