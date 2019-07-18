@@ -85,9 +85,13 @@ To finish, a Slide presentation was created for the class presentation with the 
 ## Organization
 
 Proyect Management: Trello.
+
 Data manipulations: Python coding language in Jupter notebook and PyCharm. 
+
 Data visualization and analysis: Zeppelin notebook.
+
 Data storage: Google Cloud, SequelPro and Sequel wordbench.
+
 Presentation: Slides.
 
 <a name="links"></a>
