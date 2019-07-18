@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Refugees crisis impact on media 
+**Alberto Abreu, Josep Foradada and Íngrid Munné**
 
-*[Your Cohort, Campus & Date]*
+*Ironhack Data Analytics Bootcamp. July 2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,24 +16,60 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+
+The refugees crisis is a topic that has increased since the last decade. Countries such as Syria, Lybia, Venezuela, Myanmar and Afghanistan have experiencied a huge waves of people leaving their countries for a better future, due to the lack of human rights. 
+In this project, we wanted to assess if this topic is been debated worldwide and what's the impact on different countries and sources. 
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+
+The questions that we wanted to answer were the following two: 
+
+- What's the impact of refugees-related news in media (newspaper) and social media (Twitter)?
+- Once the event is raised, is there an equal coverage on Twitter and on newspaper?
+
+There were some initial hypotheses considered beforehand: 
+
+- That the topic is being debated more and more since there is a refugees' crisis in Syria and in Mexico.  
+- That there are countries such as the USA were this topic is highly debated. 
+- That they act as a trigger to push government and NGOs to take a role on the situation. 
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
+
+- NewsAPI
+    This API retrieves data from different news sources around the world, from General topics to health and technical. It allows to retrieve data from specific sources, from specific time-periods and also from specific topics or keywords. It has a clear and structured documentation. However, you should ask for a token in order to get data from this API. However, it contains different limitations if you don't pay fror premium permisions.
+    It retrieves data from past two months. 
+    It only retrieves 5 pages for each topic you insert as a parameter. 
+    The API has a source dataset that can be retrieved and then labeded. However, this API looks for data in sources that are not included in the source dataset. 
+    
+- World Bank Data 
+    At the World Bank, the Development Data Group coordinates statistical and data work and maintains a number of macro, financial and sector databases. It has a division that works on collecting and analysing data from humanitarian crisis. Since 1991, they are collecting data about refugee population by country of origin and year. 
+    For this project, the database has been extracted from the webpage in a .csv file. 
+    There are some gaps in the datasets, meaning that there is only only data from 1991 onwards. 
+    There are some aggregated countries or areas that bias the final results and requires a careful data cleaning before performing any analysis. 
+
+- Twitter API 
+    The Twitter API has many different documentation to retrieve data from its platform. We used the free version called Standard Search method which retrieves Tweets information from the last seven days using a parameter called “q” where you write down the keywords you want to use to filter the streaming. Moreover, you can specify the language, and what kind of information you want like: user_name, hashtags, tweet and location.
+     By using the Twython wrappers in python, we manage to call the TwythonStreamer to stream data from the API and obtain approx. 40 thousand observations.
+
+- Google Search 
+
+
+
+- OnlineNewspaperlist.com 
+
 
 [Dataset]() 
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+First of all, the work has been divided into each dataset that was analyzed. A common database has been created to have a common structure where all the data will be saved. Each table contains primary keys and foreign keys to be linked between them. 
+
+One script has been created for each source where data has been retrieved from. Each script contains the following substeps: collecting data, cleaning data, formatting data according to the data There is one script for webscraping, one for 
 
 <a name="organization"></a>
 
