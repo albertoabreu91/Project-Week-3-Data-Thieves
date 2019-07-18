@@ -62,25 +62,37 @@ There were some initial hypotheses considered beforehand:
 - OnlineNewspaperlist.com 
 
 
-[Dataset]() 
+[Twitter API](https://developer.twitter.com/en/docs.html) 
+[News API]() 
+[WorldBank data]() 
 
 <a name="workflow"></a>
 
 ## Workflow
+
 First of all, the work has been divided into each dataset that was analyzed. A common database has been created to have a common structure where all the data will be saved. Each table contains primary keys and foreign keys to be linked between them. 
 
-One script has been created for each source where data has been retrieved from. Each script contains the following substeps: collecting data, cleaning data, formatting data according to the data There is one script for webscraping, one for 
+One script has been created for each source where data has been retrieved from. Each script contains the following substeps: collecting data, cleaning data, formatting data according to the data There is one script for webscraping, one for WorldBank data, News API and Twitter API. Once the final version of the datasets were completed, we upload them into one common Google Cloud account to have a common space with all the relevant datasets. 
+
+After this point, we stop working on Jupyter notebook to start analyzing the data via Zepellin. In this platform we were able to query the tables and do some basic visualization to have a better representation of our insights and be able to present them to the audience. Afterwards, we gathered all the analyzed insights and start writing them down into the research paper inside the Zepellin notebook. 
+
+To finish, a Slide presentation was created for the class presentation with the main insights of the project. 
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+
+Proyect Management: Trello.
+Data manipulations: Python coding language in Jupter notebook and PyCharm. 
+Data visualization and analysis: Zeppelin notebook.
+Data storage: Google Cloud, SequelPro and Sequel wordbench.
+Presentation: Slides.
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/albertoabreu91/Project-Week-3-Data-Thieves)  
+[Slides](https://slides.com/ingridmunnecollado/project-3refugees-and-media)  
+[Trello](https://trello.com/b/viApEXtv/ih-da-project-3)  
