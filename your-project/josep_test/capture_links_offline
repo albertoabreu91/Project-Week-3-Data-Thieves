@@ -15,10 +15,10 @@ import requests
 from shutil import move
 import os
 
-josep_news_txt = open("josep_news_es.csv", "a")
-josep_news_txt.write("country\n")
-for filename in os.listdir("/home/josep/Documents/website/spain/"):
-    filename = '/home/josep/Documents/website/spain/' + filename
+josep_news_txt = open("josep_news_uk.csv", "a")
+josep_news_txt.write("country, url\n")
+for filename in os.listdir("/home/josep/Documents/website/uk/"):
+    filename = '/home/josep/Documents/website/uk/' + filename
     with open(filename, 'r') as html_page:
         html_page = html_page.read()
 
@@ -50,7 +50,7 @@ for filename in os.listdir("/home/josep/Documents/website/spain/"):
                     print(data2)
                     url = data2.get('href')
                     print(url)
-                    josep_news_txt.write(url + "\n")
+                    josep_news_txt.write("uk," + url + "\n")
                 '''
                 if data3:
                     for div4 in data3:
