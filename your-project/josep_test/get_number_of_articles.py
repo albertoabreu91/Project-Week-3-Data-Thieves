@@ -99,3 +99,4 @@ if r.status_code == 200:
 else:
     print('NaN')
 
+
